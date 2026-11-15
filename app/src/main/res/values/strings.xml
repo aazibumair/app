@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Device Care</string>
+    <string name="a11y_description">Turns off messaging, search and sign-in screens in the apps chosen by the person who manages this phone. Nothing leaves the phone. Screen details are only saved locally if debugging is switched on.</string>
+</resources>
